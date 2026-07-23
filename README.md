@@ -23,7 +23,7 @@ A scalable, event-driven e-commerce backend built using Spring Boot Microservice
 ## 🏗️ Architecture
 
 
-![img.png](img.png)
+![img.png](screenshots/architectureDiagram.png)
 ---
 
 ## ✨ Features
@@ -44,41 +44,41 @@ A scalable, event-driven e-commerce backend built using Spring Boot Microservice
 
 ### Docker Compose
 
-![img_1.png](img_1.png)
+![img_1.png](screenshots/docker.png)
 
 ### Eureka Dashboard
 
-![img_2.png](img_2.png)
+![img_2.png](screenshots/eureka-dashboard.png)
 
 ### Swagger UI
 - User Authentication Service
 
-![img_3.png](img_3.png)
+![img_3.png](screenshots/swagger-auth.png)
 
 - Product Service
 
-![img_4.png](img_4.png)
+![img_4.png](screenshots/swagger-product.png)
 
 - Order Service
 
-![img_5.png](img_5.png)
+![img_5.png](screenshots/swagger-order.png)
 
 ### Postman
 
 - Register
-![img_6.png](img_6.png)
+![img_6.png](screenshots/postman-register.png)
 - Login
-![img_7.png](img_7.png)
+![img_7.png](screenshots/postman-login.png)
 - Create Product
-![img_8.png](img_8.png)
+![img_8.png](screenshots/postman-create-product.png)
 - Get Product
-![img_9.png](img_9.png)
+![img_9.png](screenshots/postman-get-product.png)
 - Create Order
-![img_13.png](img_13.png)
+![img_13.png](screenshots/postman-create-order.png)
 
 ### k6 Performance Test
 
-![img_14.png](img_14.png)
+![img_14.png](screenshots/k6-results.png)
 
 ---
 
